@@ -91,12 +91,17 @@
     "conditional": false,
     "status": "Em andamento",
     "scoreA": 1,
-    "scoreB": 0,
+    "scoreB": 1,
     "sets": [
       {
         "set": 1,
         "scoreA": 15,
         "scoreB": 12
+      },
+      {
+        "set": 2,
+        "scoreA": 10,
+        "scoreB": 15
       }
     ]
   },

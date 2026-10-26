@@ -89,9 +89,9 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Em andamento",
+    "status": "Finalizado",
     "scoreA": 1,
-    "scoreB": 1,
+    "scoreB": 2,
     "sets": [
       {
         "set": 1,
@@ -102,6 +102,11 @@
         "set": 2,
         "scoreA": 10,
         "scoreB": 15
+      },
+      {
+        "set": 3,
+        "scoreA": 4,
+        "scoreB": 10
       }
     ]
   },

@@ -57,14 +57,24 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Em andamento",
-    "scoreA": 0,
+    "status": "Finalizado",
+    "scoreA": 2,
     "scoreB": 1,
     "sets": [
       {
         "set": 1,
         "scoreA": 13,
         "scoreB": 15
+      },
+      {
+        "set": 2,
+        "scoreA": 15,
+        "scoreB": 10
+      },
+      {
+        "set": 3,
+        "scoreA": 10,
+        "scoreB": 6
       }
     ]
   },

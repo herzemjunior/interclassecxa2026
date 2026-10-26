@@ -11,18 +11,12 @@
     "venue": "Quadra principal",
     "conditional": false,
     "status": "Finalizado",
-    "scoreA": 3,
-    "scoreB": 2,
+    "scoreA": 1,
+    "scoreB": 0,
     "goalsA": [
-      "Noah",
-      "Luciana",
-      "Wirllian"
+      "Alex"
     ],
-    "goalsB": [
-      "Roneres",
-      "Felipe",
-      "Mizael"
-    ]
+    "goalsB": []
   },
   {
     "id": "J002",

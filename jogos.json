@@ -13,7 +13,9 @@
     "status": "Em andamento",
     "scoreA": 1,
     "scoreB": 0,
-    "goalsA": [],
+    "goalsA": [
+      "Noah"
+    ],
     "goalsB": []
   },
   {

@@ -386,9 +386,20 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 2,
+    "scoreB": 0,
+    "goalsA": [
+      "Erick",
+      "Rodrigo"
+    ],
+    "goalsB": [],
+    "yellowCardsA": [
+      "Ailson"
+    ],
+    "yellowCardsB": [
+      "Wendeson"
+    ]
   },
   {
     "id": "J017",

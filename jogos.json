@@ -175,9 +175,16 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 0,
+    "scoreB": 1,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 7,
+        "scoreB": 15
+      }
+    ]
   },
   {
     "id": "J008",

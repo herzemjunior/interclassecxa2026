@@ -283,7 +283,7 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Em andamento",
+    "status": "Finalizado",
     "scoreA": 1,
     "scoreB": 2
   },
@@ -365,7 +365,7 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Em andamento",
+    "status": "Finalizado",
     "scoreA": 3,
     "scoreB": 0,
     "goalsA": [

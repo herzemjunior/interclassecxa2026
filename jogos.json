@@ -365,9 +365,15 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 3,
+    "scoreB": 0,
+    "goalsA": [
+      "Davi Gondim",
+      "Davi Alves",
+      "Rafael"
+    ],
+    "goalsB": []
   },
   {
     "id": "J052",

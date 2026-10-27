@@ -330,9 +330,29 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 1,
+    "scoreB": 1,
+    "goalsA": [
+      "João Vitor"
+    ],
+    "goalsB": [
+      "Fábio Júnior"
+    ],
+    "yellowCardsA": [
+      "Jehran",
+      "Ailson",
+      "João Vitor"
+    ],
+    "yellowCardsB": [
+      "Fábio Júnior",
+      "Fábio Júnior"
+    ],
+    "redCardsA": [],
+    "redCardsB": [
+      "Fábio Júnior"
+    ],
+    "disciplineNote": "Fábio Júnior (Os Letais) expulso após receber dois cartões amarelos."
   },
   {
     "id": "J015",

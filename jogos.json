@@ -315,9 +315,9 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 4,
+    "scoreB": 0
   },
   {
     "id": "J014",

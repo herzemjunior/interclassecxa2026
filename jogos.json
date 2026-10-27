@@ -729,7 +729,39 @@
     "conditional": false,
     "status": "Agendado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "classification": [
+      {
+        "position": 1,
+        "team": "Canarinhos",
+        "wins": 1,
+        "setsWon": 3,
+        "setsLost": 2,
+        "setDifference": 1
+      },
+      {
+        "position": 2,
+        "team": "Panthers",
+        "wins": 1,
+        "setsWon": 2,
+        "setsLost": 2,
+        "setDifference": 0
+      },
+      {
+        "position": 3,
+        "team": "Lobos de Guerra",
+        "wins": 1,
+        "setsWon": 2,
+        "setsLost": 3,
+        "setDifference": -1
+      }
+    ],
+    "classificationTiebreakers": [
+      "Vitórias",
+      "Sets vencidos",
+      "Saldo de sets",
+      "Saldo de pontos"
+    ]
   },
   {
     "id": "J046",

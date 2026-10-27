@@ -229,9 +229,16 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 1,
+    "scoreB": 0,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 15,
+        "scoreB": 10
+      }
+    ]
   },
   {
     "id": "J010",
@@ -659,8 +666,8 @@
     "time": "14:30",
     "sport": "Vôlei",
     "gender": "Feminino",
-    "a": "GRANDE FINAL — 1ª × 2ª",
-    "b": null,
+    "a": "Canarinhos",
+    "b": "Panthers",
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,

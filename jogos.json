@@ -202,9 +202,16 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Em andamento",
+    "scoreA": 1,
+    "scoreB": 0,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 15,
+        "scoreB": 13
+      }
+    ]
   },
   {
     "id": "J009",

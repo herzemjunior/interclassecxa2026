@@ -412,9 +412,27 @@
     "phase": "Semifinal",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 3,
+    "scoreB": 0,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 11,
+        "scoreB": 6
+      },
+      {
+        "set": 2,
+        "scoreA": 11,
+        "scoreB": 6
+      },
+      {
+        "set": 3,
+        "scoreA": 11,
+        "scoreB": 8
+      }
+    ],
+    "winner": "Jerhan Melo"
   },
   {
     "id": "J030",
@@ -427,9 +445,27 @@
     "phase": "Semifinal",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 3,
+    "scoreB": 0,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 11,
+        "scoreB": 9
+      },
+      {
+        "set": 2,
+        "scoreA": 11,
+        "scoreB": 3
+      },
+      {
+        "set": 3,
+        "scoreA": 11,
+        "scoreB": 8
+      }
+    ],
+    "winner": "Erick Keirrison"
   },
   {
     "id": "J044",
@@ -442,9 +478,10 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
+    "status": "Cancelado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "disciplineNote": "Partida não disputada: Bruna Clara e Maryah Araújo não compareceram. Emanuely Mota declarada campeã feminina por ausência das demais participantes."
   },
   {
     "id": "J045",
@@ -457,9 +494,10 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
+    "status": "Cancelado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "disciplineNote": "Partida não disputada: Bruna Clara e Maryah Araújo não compareceram. Emanuely Mota declarada campeã feminina por ausência das demais participantes."
   },
   {
     "id": "J046",
@@ -472,9 +510,10 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
+    "status": "Cancelado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "disciplineNote": "Partida não disputada: Bruna Clara e Maryah Araújo não compareceram. Emanuely Mota declarada campeã feminina por ausência das demais participantes."
   },
   {
     "id": "J017",
@@ -598,33 +637,64 @@
   },
   {
     "id": "J047",
-    "date": "2026-10-29",
-    "time": "07:00",
+    "date": "2026-10-28",
+    "time": "A confirmar",
     "sport": "Tênis de Mesa",
     "gender": "Masculino",
-    "a": "GRANDE FINAL",
-    "b": null,
+    "a": "Erick Keirrison",
+    "b": "Jerhan Melo",
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 3,
+    "scoreB": 2,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 14,
+        "scoreB": 12
+      },
+      {
+        "set": 2,
+        "scoreA": 9,
+        "scoreB": 11
+      },
+      {
+        "set": 3,
+        "scoreA": 11,
+        "scoreB": 7
+      },
+      {
+        "set": 4,
+        "scoreA": 7,
+        "scoreB": 11
+      },
+      {
+        "set": 5,
+        "scoreA": 11,
+        "scoreB": 9
+      }
+    ],
+    "winner": "Erick Keirrison",
+    "disciplineNote": "Final masculina antecipada para 28/10; horário de 15h05 apenas indicativo, horário efetivo não informado."
   },
   {
     "id": "J048",
-    "date": "2026-10-29",
-    "time": "07:20",
+    "date": "2026-10-28",
+    "time": "A confirmar",
     "sport": "Tênis de Mesa",
     "gender": "Feminino",
-    "a": "GRANDE FINAL — 1ª × 2ª",
+    "a": "Emanuely Mota",
     "b": null,
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
+    "status": "Cancelado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "winner": "Emanuely Mota",
+    "disciplineNote": "Campeã feminina declarada por ausência de Bruna Clara e Maryah Araújo. Final não disputada; sem placar."
   },
   {
     "id": "J035",

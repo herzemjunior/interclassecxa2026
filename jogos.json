@@ -559,9 +559,22 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 0,
+    "scoreB": 2,
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 0,
+        "scoreB": 15
+      },
+      {
+        "set": 2,
+        "scoreA": 0,
+        "scoreB": 15
+      }
+    ],
+    "winner": "Panthers"
   },
   {
     "id": "J021",
@@ -767,14 +780,58 @@
     "time": "08:10",
     "sport": "Vôlei",
     "gender": "Misto",
-    "a": "GRANDE FINAL — 1º × 2º",
-    "b": null,
+    "a": "Águias",
+    "b": "Tropa da Fumaça",
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
     "status": "Agendado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "classification": [
+      {
+        "position": 1,
+        "team": "Águias",
+        "wins": 3,
+        "setsWon": 6,
+        "setsLost": 1,
+        "setDifference": 5,
+        "pointDifference": 25
+      },
+      {
+        "position": 2,
+        "team": "Tropa da Fumaça",
+        "wins": 1,
+        "setsWon": 4,
+        "setsLost": 4,
+        "setDifference": 0,
+        "pointDifference": -4
+      },
+      {
+        "position": 3,
+        "team": "Panthers",
+        "wins": 1,
+        "setsWon": 2,
+        "setsLost": 4,
+        "setDifference": -2,
+        "pointDifference": 13
+      },
+      {
+        "position": 4,
+        "team": "Time Alien",
+        "wins": 1,
+        "setsWon": 2,
+        "setsLost": 5,
+        "setDifference": -3,
+        "pointDifference": -34
+      }
+    ],
+    "classificationTiebreakers": [
+      "Vitórias",
+      "Sets vencidos",
+      "Saldo de sets",
+      "Saldo de pontos"
+    ]
   },
   {
     "id": "J037",

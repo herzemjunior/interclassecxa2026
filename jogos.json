@@ -587,9 +587,16 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 0,
+    "scoreB": 3,
+    "goalsA": [],
+    "goalsB": [
+      "Elielton",
+      "Saulo",
+      "Gol contra (Inter de Litrão)"
+    ],
+    "winner": "Canarinhos"
   },
   {
     "id": "J016",

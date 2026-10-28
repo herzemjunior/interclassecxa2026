@@ -609,9 +609,15 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 2,
+    "scoreB": 0,
+    "goalsA": [
+      "Francisca Thaina",
+      "Maria Clara"
+    ],
+    "goalsB": [],
+    "winner": "Panteras CXA"
   },
   {
     "id": "J022",

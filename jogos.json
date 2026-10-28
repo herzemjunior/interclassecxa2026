@@ -690,9 +690,18 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 5,
+    "scoreB": 0,
+    "goalsA": [
+      "João Vitor",
+      "João Vitor",
+      "João Vitor",
+      "Rodrigo Matiello",
+      "Kaio"
+    ],
+    "goalsB": [],
+    "winner": "Real Madruga"
   },
   {
     "id": "J047",

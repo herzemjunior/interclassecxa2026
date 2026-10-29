@@ -958,9 +958,18 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 1,
+    "scoreB": 3,
+    "goalsA": [
+      "Luis Felipe"
+    ],
+    "goalsB": [
+      "Fábio Junior",
+      "Fábio Junior",
+      "Fábio Junior"
+    ],
+    "winner": "Os Letais"
   },
   {
     "id": "J040",

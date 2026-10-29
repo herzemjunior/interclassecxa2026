@@ -775,9 +775,9 @@
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null,
+    "status": "Em andamento",
+    "scoreA": 1,
+    "scoreB": 1,
     "classification": [
       {
         "position": 1,
@@ -809,6 +809,18 @@
       "Sets vencidos",
       "Saldo de sets",
       "Saldo de pontos"
+    ],
+    "sets": [
+      {
+        "set": 1,
+        "scoreA": 15,
+        "scoreB": 17
+      },
+      {
+        "set": 2,
+        "scoreA": 15,
+        "scoreB": 3
+      }
     ]
   },
   {

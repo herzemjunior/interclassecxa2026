@@ -944,9 +944,10 @@
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
+    "status": "Finalizado",
     "scoreA": null,
-    "scoreB": null
+    "scoreB": null,
+    "winner": "Equipe Rouba Cena"
   },
   {
     "id": "J039",

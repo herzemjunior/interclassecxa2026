@@ -775,8 +775,8 @@
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Em andamento",
-    "scoreA": 1,
+    "status": "Finalizado",
+    "scoreA": 2,
     "scoreB": 1,
     "classification": [
       {
@@ -820,8 +820,14 @@
         "set": 2,
         "scoreA": 15,
         "scoreB": 3
+      },
+      {
+        "set": 3,
+        "scoreA": 10,
+        "scoreB": 5
       }
-    ]
+    ],
+    "winner": "Canarinhos"
   },
   {
     "id": "J036",

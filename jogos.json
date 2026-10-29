@@ -986,7 +986,13 @@
     "scoreA": 2,
     "scoreB": 1,
     "winner": "Real Madruga",
-    "disciplineNote": "Autores dos gols informados: Mateus, Ailson e Elielton. Atribuição dos dois gols do Real Madruga e do gol dos Canarinhos aguardando confirmação."
+    "goalsA": [
+      "Mateus",
+      "Ailson"
+    ],
+    "goalsB": [
+      "Elielton"
+    ]
   },
   {
     "id": "J053",

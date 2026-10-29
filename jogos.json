@@ -1005,9 +1005,17 @@
     "phase": "Classificatória",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 1,
+    "scoreB": 2,
+    "goalsA": [
+      "Felipe"
+    ],
+    "goalsB": [
+      "Davi Alves",
+      "Davi Alves"
+    ],
+    "winner": "Tropa da Fumaça"
   },
   {
     "id": "J051",
@@ -1015,8 +1023,8 @@
     "time": "11:00",
     "sport": "Futsal",
     "gender": "Masculino",
-    "a": "1º colocado",
-    "b": "2º colocado",
+    "a": "Real Madruga",
+    "b": "Tropa da Fumaça",
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,

@@ -928,9 +928,10 @@
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 6,
+    "scoreB": 1,
+    "winner": "Lobos de Guerra"
   },
   {
     "id": "J026",

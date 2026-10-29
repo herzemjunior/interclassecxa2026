@@ -912,9 +912,10 @@
     "phase": "Final",
     "venue": "Quadra principal",
     "conditional": false,
-    "status": "Agendado",
-    "scoreA": null,
-    "scoreB": null
+    "status": "Finalizado",
+    "scoreA": 5,
+    "scoreB": 7,
+    "winner": "Canarinhos"
   },
   {
     "id": "J038",

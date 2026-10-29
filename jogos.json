@@ -961,22 +961,6 @@
     "scoreB": null
   },
   {
-    "id": "J054",
-    "date": "2026-10-29",
-    "time": "11:25",
-    "sport": "Futsal",
-    "gender": "Feminino",
-    "a": "Panteras CXA",
-    "b": "Xeque-Mate",
-    "phase": "Final",
-    "venue": "Quadra principal",
-    "conditional": true,
-    "status": "Cancelado",
-    "scoreA": null,
-    "scoreB": null,
-    "disciplineNote": "Partida desnecessária: Panteras CXA campeã com duas vitórias nos dois primeiros confrontos."
-  },
-  {
     "id": "J051",
     "date": "2026-10-29",
     "time": "11:00",
